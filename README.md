@@ -18,14 +18,14 @@
 - **Excel**: Preprocessing & pivot summaries
 - **Git/GitHub**: Version control & hosting
 
-## 📈 Key Insights
+## Key Insights
 
 - Group B, consisting younger applicants with moderate income and short employment history showed **34.15% loan default**, flagged as **High Risk**.
 - Group D, consisting of older applicants with strong savings and long credit durations had **12.77% default**, classified as **Low Risk**.
 - Default rates above **30%** were labeled "High Risk," between **20–30%** as "Moderate," and below **20%** as "Low."
 
 
-## 📷 Preview
+## Preview
 
 Dashboard: [https://app.powerbi.com/links/34E2OOWGMY?ctid=3a228dfb-c647-44cb-8835-7b20617fc906&pbi_source=linkShare](https://app.powerbi.com/links/34E2OOWGMY?ctid=3a228dfb-c647-44cb-8835-7b20617fc906&pbi_source=linkShare)
 
