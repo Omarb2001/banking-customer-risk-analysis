@@ -1,0 +1,6 @@
+group_name,total,avg_duration,avg_credit_amount,avg_installment_pct,avg_age,most_common_job_type,most_common_job_pct,most_common_housing,most_common_housing_pct,majority_has_phone,most_common_phone_own_pct,most_common_property,most_common_property_pct
+All,1000,20.9,3271.26,2.97,35.55,skilled,63,rent,71.3,0,59.6,car_or_other,33.2
+Car Loans,337,20.81,3768.19,2.81,37.14,skilled,56.38,rent,64.99,0,55.79,car_or_other,32.64
+Bad Car Loans,106,23.11,4221.95,3.05,34.81,skilled,57.55,rent,56.6,0,63.21,car_or_other,30.19
+,,,,,,,,,,,NOTE: This the % of debtors who ,,
+,,,,,,,,,,,DON'T own phones.,,
